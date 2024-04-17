@@ -4,7 +4,6 @@
 #include <string.h>
 #include "st7735.h"
 #include "fonts.h"
-#include "imagee.h"
 /* Private variables ---------------------------------------------------------*/
 RTC_HandleTypeDef hrtc;
 SPI_HandleTypeDef hspi1;
